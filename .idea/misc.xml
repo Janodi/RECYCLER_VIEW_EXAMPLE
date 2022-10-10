@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jim Dieffenderfer/AndroidStudioProjects/RECYCLER_VIEW_EXAMPLE/app/src/main/res/layout/course_lesson_row.xml" value="0.5" />
+        <entry key="..\:/Users/Jim Dieffenderfer/AndroidStudioProjects/RECYCLER_VIEW_EXAMPLE/app/src/main/res/layout/row_entry.xml" value="0.1890625" />
         <entry key="..\:/Users/Jim Dieffenderfer/AndroidStudioProjects/TestStatementApp/app/src/main/res/layout/activity_course_detail.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/Jim Dieffenderfer/AndroidStudioProjects/TestStatementApp/app/src/main/res/layout/activity_course_lesson.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/Jim Dieffenderfer/AndroidStudioProjects/TestStatementApp/app/src/main/res/layout/activity_main.xml" value="0.43905191873589167" />

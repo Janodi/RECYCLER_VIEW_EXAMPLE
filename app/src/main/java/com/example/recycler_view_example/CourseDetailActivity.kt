@@ -66,7 +66,7 @@ class CourseDetailActivity : AppCompatActivity() {
         }
 
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CourseLessonViewHolder {
-            val layoutInflater = LayoutInflater.from(parent.context)
+//            val layoutInflater = LayoutInflater.from(parent.context)
             val cellForRow = CourseLessonRowBinding.inflate(LayoutInflater.from(parent.context), parent, false)
             return CourseLessonViewHolder(cellForRow)
         }
